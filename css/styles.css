@@ -1,0 +1,46 @@
+body {
+  background-color:lightyellow;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: grey;
+  width: 6%;
+}
+
+h1, h3 {
+  font-family: "Arial", sans-serif;
+}
+
+img {
+  height: 300px;
+}
+
+/******************CLASS SELECTOR******************/
+.suitpic {
+  height: 200px;
+}
+
+.circular {
+  border-radius: 100%;
+}
+
+.linkedin {
+  color: purple;
+}
+
+.Stock {
+  height: 200px;
+}
+
+/*****************ID SELECTOR*************/
+#Heading {
+  text-align: center;
+}
+
+#headers {
+  font-style: italic;
+  font-size: 30px;
+}
